@@ -18,3 +18,14 @@ list files:
 -rw-rw-r--     29792886 Sep 12 08:03 Candle_1.1.7.zip
 
 
+split files:
+
+    $ split -b15M Candle_1.1.7.zip 
+    $ mv xaa Candle_1.1.7-zip-xaa
+    $ mv xab Candle_1.1.7-zip-xab
+
+    $ ls -l *xa*
+    -rw-rw-r--     15728640 Sep 12 08:12 Candle_1.1.7-zip-xaa
+    -rw-rw-r--     14064246 Sep 12 08:12 Candle_1.1.7-zip-xab
+
+
