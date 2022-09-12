@@ -1,1 +1,20 @@
 
+
+links:
+
+https://github.com/Denvi/Candle/releases/download/v1.1/Candle_1.1.7.zip
+https://github.com/Denvi/Candle/releases/download/v1.1/Candle_1.1.7.tar.gz
+
+
+sha256 sums: 
+
+ddb098d33c8b75d98fe9d9ed9be8e4a9ce5102df8d4d6231ea62d9c9fbc6d0ff  Candle_1.1.7.tar.gz
+f744b172757850dff8d8af0f778bce12a298ba9feab73bee6da9fbd7b669580a  Candle_1.1.7.zip
+
+
+list files:
+
+-rw-rw-r--     20750906 Sep 12 08:04 Candle_1.1.7.tar.gz
+-rw-rw-r--     29792886 Sep 12 08:03 Candle_1.1.7.zip
+
+
